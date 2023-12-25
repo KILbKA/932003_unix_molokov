@@ -40,7 +40,7 @@
      <string>Enter Second Number</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="sumButton">
+   <widget class="QPushButton" name="mulButton">
     <property name="geometry">
      <rect>
       <x>150</x>
@@ -122,12 +122,12 @@
      <height>21</height>
     </rect>
    </property>
-   <widget class="QMenu" name="menuSum_App">
+   <widget class="QMenu" name="menuMul_App">
     <property name="title">
-     <string>Sum App</string>
+     <string>Mul App</string>
     </property>
    </widget>
-   <addaction name="menuSum_App"/>
+   <addaction name="menuMul_App"/>
   </widget>
   <widget class="QStatusBar" name="statusbar"/>
  </widget>
